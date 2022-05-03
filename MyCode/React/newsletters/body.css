@@ -1,0 +1,46 @@
+.pagination-align{
+    text-align-last: center;
+    color: black;
+}    
+.card-body-content{
+    width: 100%;
+    height: 100%;
+}
+
+.img-sizing{
+    width: 100%;
+    height: 575px;
+    object-fit: fill;
+}
+
+.card-content{
+    padding: none;
+    margin-left: auto;
+
+    border-radius: 1rem;
+    border: 1px solid transparent;
+
+    backdrop-filter: blur(1rem);
+    box-shadow: 1.3rem 1.3rem 1.3rem rgba(0, 0, 0, 0.5);
+
+    background-color:rgba(225, 225, 225, 0.1)
+}
+
+.card-title-content{
+    text-align: center;
+    color: black;
+}
+
+.card-subtitle-content{
+    font-weight: inherit;
+    text-align: center;
+}
+
+.row-content{
+    justify-content: center;
+    padding-bottom: 50px;
+}
+
+.icon-content{
+    color: black;
+}
